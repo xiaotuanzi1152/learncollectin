@@ -9,4 +9,5 @@ public class Person {
     private int age;
     private String address;
     private int sex;
+    private String p_aaaa;
 }
