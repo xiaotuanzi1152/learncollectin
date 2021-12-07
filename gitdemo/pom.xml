@@ -3,18 +3,15 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>collection1</artifactId>
+        <artifactId>javaArithmetic</artifactId>
         <groupId>com.example</groupId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath>../collection1/pom.xml</relativePath>
+        <relativePath>../javaArithmetic/pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>javaArithmetic</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>../gitdemo</module>
-    </modules>
+    <groupId>com.example</groupId>
+    <artifactId>gitdemo</artifactId>
 
 
 </project>
